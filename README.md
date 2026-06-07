@@ -14,8 +14,8 @@
 A minimal and fun single-file animated emoji interactive page. All code (HTML, CSS, JS) is condensed into one file, achieving floating, gradient color effects, and user interaction.
 
 ## ✨ 超短代码 | Ultra-Short Code
-**核心亮点**：这是一个完全独立的 HTML 文件，包含全部样式和逻辑，**代码仅约100行**。非常适合学习、修改或快速集成到项目中。
-**Key Highlight**: This is a completely standalone HTML file containing all styles and logic, with **code of only about 100 lines**. Perfect for learning, modifying, or quick integration into projects.
+**核心亮点**：这是一个完全独立的 HTML 文件，包含全部样式和逻辑，**代码仅2行**。非常适合学习、修改或快速集成到项目中。
+**Key Highlight**: This is a completely standalone HTML file containing all styles and logic, with **code of only about 2 lines**. Perfect for learning, modifying, or quick integration into projects.
 
 ## 🎮 功能特性 | Features
 *   **动态动画**: 表情符号会自动上下浮动并循环变换颜色。
