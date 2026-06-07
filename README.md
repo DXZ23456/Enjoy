@@ -1,8 +1,5 @@
 # 🎨 动画表情播放器 | Animated Emoji Player
 
-一个极简、有趣的单文件动画表情交互页面。所有代码（HTML, CSS, JS）均浓缩在一个文件中，实现悬浮、渐变色与用户交互。
-A minimal and fun single-file animated emoji interactive page. All code (HTML, CSS, JS) is condensed into one file, achieving floating, gradient color effects, and user interaction.
-
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +10,8 @@ A minimal and fun single-file animated emoji interactive page. All code (HTML, C
 
 </div>
 
-
+一个极简、有趣的单文件动画表情交互页面。所有代码（HTML, CSS, JS）均浓缩在一个文件中，实现悬浮、渐变色与用户交互。
+A minimal and fun single-file animated emoji interactive page. All code (HTML, CSS, JS) is condensed into one file, achieving floating, gradient color effects, and user interaction.
 
 ## ✨ 超短代码 | Ultra-Short Code
 **核心亮点**：这是一个完全独立的 HTML 文件，包含全部样式和逻辑，**代码仅约100行**。非常适合学习、修改或快速集成到项目中。
