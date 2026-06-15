@@ -56,5 +56,5 @@ Click the emoji or buttons on the page, or try entering a new emoji (like 🍕, 
     *As an embeddable code snippet to add a bit of liveliness to any static page.*
 
 # 演示地址 | Demo URL
-https://dxz23456.github.io/Enjoy/
+https://dxzstarclimber.github.io/Enjoy/
 https://enjoy.dxzpages.㏄.cd
